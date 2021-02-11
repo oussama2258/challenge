@@ -1,0 +1,14 @@
+.class1 {
+  display: flex;
+  justify-content: space-around;
+  margin: 10%;
+}
+.butt {
+  height: 50%;
+  width: 10%;
+  background-color: darkorange;
+}
+.put {
+  width: 50%;
+  height: 20%;
+}

@@ -1,0 +1,9 @@
+.list {
+  display: flex;
+  justify-content: space-around;
+}
+.butts {
+  background-color: darksalmon;
+  height: 20px;
+  width: 90px;
+}
